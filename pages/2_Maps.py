@@ -8,7 +8,6 @@ import streamlit as st
 import pandas as pd
 import folium
 import pandas as pd
-import json
 from folium import plugins
 from folium.plugins import MarkerCluster
 from streamlit_folium import st_folium
